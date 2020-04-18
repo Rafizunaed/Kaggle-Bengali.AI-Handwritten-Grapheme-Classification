@@ -1,0 +1,57 @@
+*** All the directories should be created manually before running the codes ***
+*** All the folders should have both read and write access ***
+
+/home/
+total 0
+
+bengalidata   Folder
+
+
+/home/bengalidata/
+total 13
+
+data			Folder
+efficientnetb5_cutmix	Folder
+bengali_cutmix.py	File
+bengali_dataset.py	File
+bengali_models.py	File
+bengali_optimizers.py	File
+bengali_train_fold1.py	File
+bengali_train_fold2.py	File
+bengali_train_fold3.py	File
+bengali_train_fold4.py	File
+bengali_train_fold5.py	File
+bengali_trainer.py	File
+train_labels.npy	File
+
+/home/bengalidata/data/
+total 4
+
+train_image_data_0.parquet	File
+train_image_data_1.parquet	File
+train_image_data_2.parquet	File
+train_image_data_3.parquet	File
+
+/home/bengalidata/efficientnetb5_cutmix/
+total 5
+
+fold1	Folder
+fold2	Folder
+fold3	Folder
+fold4	Folder
+fold5	Folder
+
+/home/bengalidata/efficientnetb5_cutmix/fold1/
+total 0
+
+/home/bengalidata/efficientnetb5_cutmix/fold2/
+total 0
+
+/home/bengalidata/efficientnetb5_cutmix/fold3/
+total 0
+
+/home/bengalidata/efficientnetb5_cutmix/fold4/
+total 0
+
+/home/bengalidata/efficientnetb5_cutmix/fold5/
+total 0
