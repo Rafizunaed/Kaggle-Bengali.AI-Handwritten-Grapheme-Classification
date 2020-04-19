@@ -22,6 +22,7 @@ All the directories should be created manually before running the codes as menti
 
 ## Model
 •	EfficientNet-B5 with three heads
+![](images/model_diagram.PNG)
 
 ## Training:
 •	5 fold Configuration <br />
