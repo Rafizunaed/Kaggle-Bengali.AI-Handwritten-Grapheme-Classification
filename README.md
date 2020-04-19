@@ -21,7 +21,7 @@ All the directories should be created manually before running the codes as menti
 •	CutMix
 
 ## Model
-![GitHub Logo](https://github.com/Rafizunaed/Kaggle-Bengali.AI-Handwritten-Grapheme-Classification/tree/master/images/model_diagram.png)
+![pictue](images/model_diagram.png)
 
 ## Training:
 •	5 fold Configuration <br />
