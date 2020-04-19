@@ -12,3 +12,11 @@ tqdm == 4.44.1 <br />
 
 ## Solution
 https://www.kaggle.com/c/bengaliai-cv19/discussion/144549
+
+## Dataset
+•	Image Size: 137x236 ( No preprocessing )
+
+## Augmentation
+•	CutMix
+
+## Model
