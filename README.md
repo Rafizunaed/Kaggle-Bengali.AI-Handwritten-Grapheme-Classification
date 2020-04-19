@@ -21,6 +21,7 @@ All the directories should be created manually before running the codes as menti
 •	CutMix
 
 ## Model
+![GitHub Logo](/images/model_diagram.png)
 
 ## Training:
 •	5 fold Configuration <br />
