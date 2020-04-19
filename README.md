@@ -21,7 +21,8 @@ All the directories should be created manually before running the codes as menti
 •	CutMix
 
 ## Model
-![home](images/model_diagram.png)
+•	EfficientNet-B5 with three heads
+
 ## Training:
 •	5 fold Configuration <br />
 •	Data split on the basis of grapheme root labels <br />
