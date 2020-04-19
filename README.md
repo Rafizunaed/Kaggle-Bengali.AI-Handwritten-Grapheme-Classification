@@ -23,23 +23,23 @@ All the directories should be created manually before running the codes as menti
 ## Model
 
 ## Training:
-•	5 fold Configuration
-•	Data split on the basis of grapheme root labels
-•	Loss: Cross Entropy Loss
-•	Optimizer: Over9000
-•	Scheduler: Reduce On Plateau
-•	Gradient Accumulation
-•	Batch Size 100
-•	Initial Learning Rate 0.03
+•	5 fold Configuration <br />
+•	Data split on the basis of grapheme root labels <br />
+•	Loss: Cross Entropy Loss <br />
+•	Optimizer: Over9000 <br />
+•	Scheduler: Reduce On Plateau <br />
+•	Gradient Accumulation <br />
+•	Batch Size 100 <br />
+•	Initial Learning Rate 0.03 <br />
 
 ## Inference:
-•	Best Average recall checkpoints were used
-•	Simple Average of the outputs from 5 folds
-•	Inference kernel: https://www.kaggle.com/mohammadzunaed/efficientnet-b5-inference-kernel-pytorch?scriptVersionId=32245517
+•	Best Average recall checkpoints were used <br />
+•	Simple Average of the outputs from 5 folds <br />
+•	Inference kernel: https://www.kaggle.com/mohammadzunaed/efficientnet-b5-inference-kernel-pytorch?scriptVersionId=32245517 <br />
 
 ## Things that did not work for me:
-•	Preprocessing
-•	GridMask, Cutout, AugMix
-•	Label Smoothing Criterions
-•	Single head instead of three heads
-•	Activation functions and Convolutional layers in the heads
+•	Preprocessing <br />
+•	GridMask, Cutout, AugMix <br />
+•	Label Smoothing Criterions <br />
+•	Single head instead of three heads <br />
+•	Activation functions and Convolutional layers in the heads <br />
