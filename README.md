@@ -21,8 +21,7 @@ All the directories should be created manually before running the codes as menti
 •	CutMix
 
 ## Model
-![pictue](images/model_diagram.png)
-
+![home](images/model_diagram.png)
 ## Training:
 •	5 fold Configuration <br />
 •	Data split on the basis of grapheme root labels <br />
