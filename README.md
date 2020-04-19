@@ -3,7 +3,7 @@
 ## Dependencies
 pytorch == 1.4.0 <br />
 cudatoolkit == 10.1 <br />
-[efficientnet]https://github.com/lukemelas/EfficientNet-PyTorch <br />
+[efficientnet](https://github.com/lukemelas/EfficientNet-PyTorch) <br />
 numpy == 1.18.1 <br />
 pandas == 1.0.3 <br />
 scikit-learn == 0.22.1 <br />
