@@ -1,4 +1,5 @@
 # Kaggle-Bengali.AI-Handwritten-Grapheme-Classification 167th Place Solution
+In this [competition](https://www.kaggle.com/c/bengaliai-cv19), the task is to separately classify three constituent elements: grapheme root, vowel diacritics, and consonant diacritics from the image of a handwritten Bengali grapheme. I have been nominated for the highest performing student team from Bangladesh for this competition. A discussion thread based on my solution is also available in the [kaggle discussion forum](https://www.kaggle.com/c/bengaliai-cv19/discussion/144549).
 
 ## Dependencies
 pytorch == 1.4.0 <br />
@@ -9,9 +10,6 @@ pandas == 1.0.3 <br />
 scikit-learn == 0.22.1 <br />
 apex == 0.1 <br />
 tqdm == 4.44.1 <br />
-
-## Solution
-https://www.kaggle.com/c/bengaliai-cv19/discussion/144549
 
 ## Dataset
 All the directories should be created manually before running the codes as mentioned in Directory_structure.txt file. All the folders should have both read and write access. After creating the directories with suitable permissions, competition data(only the train parquet files) must be placed in the '/data/' directory <br />
